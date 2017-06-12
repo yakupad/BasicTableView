@@ -11,7 +11,7 @@ import UIKit
 import UIKit
 
 class ViewController: UITableViewController {
-    let animals = ["Ayı", "Kuğu", "Bufalo", "Deve", "Papağan", "Köpek", "Maymun", "Devekuşu", "Zürafa", "Büyük Rhea", "Hipotamus", "At", "Koala", "Aslan", "Lama", "Manatus", "Mirket", "Panda", "Tavus Kuşu", "Domuz", "Platypus", "Kutup Ayısı", "Gergedan", "Martı", "Tazmanya Canavarı", "Balina", "Balina", "Wombat"]
+    let animals = ["Bear", "Black Swan", "Buffalo", "Camel", "Cockatoo", "Dog", "Donkey", "Emu", "Giraffe", "Greater Rhea", "Hippopotamus", "Horse", "Koala", "Lion", "Llama", "Manatus", "Meerkat", "Panda", "Peacock", "Pig", "Platypus", "Polar Bear", "Rhinoceros", "Seagull", "Tasmania Devil", "Whale", "Whale Shark", "Wombat"]
     
     override func viewDidLoad() {
         super.viewDidLoad()
